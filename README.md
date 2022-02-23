@@ -9,16 +9,6 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 ### We will learn Java in Code 401 - Advanced Software Development
 | Table Of Content        | Description | 
 | :---        |          ---: |
-| Class 01    |   [Rawzi's profile](https://github.com/rawziNael) |
+| Class 01    |   [SQl](https://github.com/rawziNael/Reading-Notes/blob/main/sql.md) |
 | class 02  | [Rawzi's profile](https://github.com/rawziNael)      |
-| class 03  | [Rawzi's profile](https://github.com/rawziNael)  
-| class 04  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 05  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 06  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 07  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 08  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 09  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 10  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 11  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 12  | [Rawzi's profile](https://github.com/rawziNael) 
-| class 13  | [Rawzi's profile](https://github.com/rawziNael) 
+
