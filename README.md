@@ -6,9 +6,9 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 ## Code 401 - Advanced Software Development
 
 | Table Of Content        | Description | 
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| :---        |          ---: |
+| Header      | Here's this   |
+| Paragraph   | And more      |
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
