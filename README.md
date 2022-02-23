@@ -10,5 +10,5 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Table Of Content        | Description | 
 | :---        |          ---: |
 | Class 01    |   [SQl](https://github.com/rawziNael/Reading-Notes/blob/main/databases%20and%20SQL.md) |
-| class 02  | [Rawzi's profile](https://github.com/rawziNael)      |
+| class 02  |      |
 
