@@ -5,6 +5,8 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
+
+### We will learn Java in Code 401 - Advanced Software Development
 | Table Of Content        | Description | 
 | :---        |          ---: |
 | Class 01    |   [Rawzi's profile](https://github.com/rawziNael) |
