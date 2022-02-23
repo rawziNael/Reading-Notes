@@ -10,3 +10,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
