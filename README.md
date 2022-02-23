@@ -3,10 +3,10 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Java Software Development
 
 
-### We will learn Java in Code 401 - Advanced Software Development
+### We will learn Java in Code 401 - Advanced Java
 | Table Of Content        | Description | 
 | :---        |          ---: |
 | Class 01    |   [SQl](https://github.com/rawziNael/Reading-Notes/blob/main/databases%20and%20SQL.md) |
