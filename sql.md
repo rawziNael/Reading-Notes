@@ -10,7 +10,16 @@ There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle a
 A relational database is a database organized according to the relational model of data. In simple terms, the relational model defines a set of relations (which we can think of as analogous to tables) and describes the relationships, or connections, between them in order to determine how the data stored in them can interact. Using the relational model elevates our database from data that is represented in just a flat, two-dimensional table, to one where we can describe the data in a more complex and detailed way. Using a relational database helps us to cut down on duplicated data and provides a much more useful data structure for us to interact with.
 
 
-![alt text](image.jpg)
-![alt text](image.jpg)
-![alt text](image.jpg)
+![exercise-1](/assets/exercise-1.png)
+![exercise-2](/assets/exercise-2.png)
+![exercise-3](/assets/exercise-3.png)
+![exercise-4](/assets/exercise-4.png)
+![exercise-5](/assets/exercise-5.png)
+![exercise-6](/assets/exercise-6.png)
+![lesson 13](/assets/lesson 13.png)
+![lesson 14](/assets/lesson 14.png)
+![lesson 15](/assets/lesson 15.png)
+![lesson 16](/assets/lesson 16.png)
+![lesson 17](/assets/lesson 17.png)
+![lesson 18](/assets/lesson 18.png)
 
