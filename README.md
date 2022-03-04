@@ -7,16 +7,14 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 
 
 ### We will learn Java in Code 401 - Advanced Java
-| Table Of Content        | Description | 
-| :---        |          ---: |
-| Class 01    |   [SQl](https://github.com/rawziNael/Reading-Notes/blob/main/databases%20and%20SQL.md) |
-| class 02  |      |
-| class 03  |      |
-| class 04  |      |
-| class 05  |      |
-| class 06  |      |
-| class 07  |      |
-| class 08  |      |
-| class 09  |      |
-| class 10  |      |
+| # of class    | Description | Description | 
+| :---        |          ---: | ---: |
+| Class 01    |  |Description | 
+| class 02  |      |Description | 
+| class 03  |      ||
+| class 04  |      ||
+| class 05  |      ||
+| class 06  |      ||
+| class 07  |      ||
+
 
