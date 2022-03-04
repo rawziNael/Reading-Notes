@@ -9,7 +9,6 @@ A variable is a name given to a memory location.
 ##### There are two types of variable in Java programming language:
 
 - Instance Variables (Non-Static Fields):
-
 Instance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed.
 - Class Variables (Static Fields):
 Static variables are created when the program starts and destroyed when the program stops.
