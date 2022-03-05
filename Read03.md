@@ -26,3 +26,12 @@ And for a single instance of a reference type on this JVM occupies 128 bits exce
 - Short, Character – 128 bits
 - Integer, Float – 128 bits
 - Long, Double – 192 bits
+
+## Exceptions  
+What Is an Exception?  
+An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions.  
+
+### Types of Exceptions in Java
+
+
+
