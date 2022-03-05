@@ -23,3 +23,14 @@ Here are three examples of variables that follow the standard Java naming conven
 - firstName
 - timeToFirstLoad
 - index
+
+#### Operators
+Operators are symbols that perform operations on variables and values. For example, + is an operator used for addition, while * is also an operator used for multiplication.
+
+Operators in Java can be classified into 5 types:
+- Arithmetic Operators
+- Assignment Operators
+- Relational Operators
+- Logical Operators
+- Unary Operators
+- Bitwise Operators
