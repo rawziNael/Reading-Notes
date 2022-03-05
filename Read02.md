@@ -28,4 +28,18 @@ do {
 }
 while (i < 5);
 ```
+### Packages
+Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces.  
+```
+Packages are used for:
+1- Preventing naming conflicts.
+2- Providing controlled access.
+```
+Package declaration syntax:
+```
+package illustration;  //1) Package statment (optional).
 
+import java.awt.*;     //2) Imports (optional).
+
+public class Drawing {// 3) Class or interface definitions.
+```
