@@ -6,7 +6,7 @@ Variable in Java is a data container that saves the data values during Java prog
 
 A variable is a name given to a memory location.
 
-##### There are two types of variable in Java programming language:
+##### Types of variable in Java programming language:
 
 - Instance Variables (Non-Static Fields):
 Instance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed.
@@ -16,3 +16,10 @@ Static variables are created when the program starts and destroyed when the prog
 A variable defined within a block or method or constructor is called a local variable.
 - Parameters:
 The important thing to remember is that parameters are always classified as "variables" not "fields".
+##### Java variable naming conventions
+For variables, the Java naming convention is to always start with a lowercase letter and then capitalize the first letter of every subsequent word. Variables in Java are not allowed to contain white space, so variables made from compound words are to be written with a lower camel case syntax.
+
+Here are three examples of variables that follow the standard Java naming convention:
+- firstName
+- timeToFirstLoad
+- index
