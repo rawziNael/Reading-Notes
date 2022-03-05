@@ -31,6 +31,7 @@ And for a single instance of a reference type on this JVM occupies 128 bits exce
 What Is an Exception?  
 An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions.  
 
+
 ### Types of Exceptions in Java  
 ![Exceptions](/assets01/types-of-exception-in-java.png)  
 
@@ -60,4 +61,7 @@ to import the Scanner : import java.util.Scanner
 ```
 Scanner scanner = new Scanner(System.in);  // Create a Scanner object
 int userName = scanner.nextInt();  // Read user input
-```
+
+
+
+
