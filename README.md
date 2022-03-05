@@ -10,7 +10,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | # of class    | Title | Links | 
 | :---        |          ---: | ---: |
 | Class 01    | Java Basics |	[javaBasics](https://github.com/rawziNael/Reading-Notes/blob/main/Read01.md) | 
-| class 02  |      | | 
+| class 02  |    Arrays, Loops, Imports   | [loops&import](https://github.com/rawziNael/Reading-Notes/blob/main/Read02.md) | 
 | class 03  |      ||
 | class 04  |      ||
 | class 05  |      ||
