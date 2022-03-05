@@ -1,7 +1,7 @@
 # Arrays, Loops, Imports
 #### Loops
-Looping in programming languages is a feature which facilitates the execution of a set of instructions/functions repeatedly while some condition evaluates to true.
-In Java we have different types of loops:
+Looping in programming languages is a feature which facilitates the execution of a set of instructions/functions repeatedly while some condition evaluates to true.  
+In Java we have different types of loops:  
 1- For loop
 ```
 {
