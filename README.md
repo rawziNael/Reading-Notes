@@ -7,10 +7,10 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 
 
 ### We will learn Java in Code 401 - Advanced Java
-| # of class    | Description | Description | 
+| # of class    | Title | Links | 
 | :---        |          ---: | ---: |
-| Class 01    |  |Description | 
-| class 02  |      |Description | 
+| Class 01    | Java Basics |	[javaBasics](https://github.com/rawziNael/Reading-Notes/blob/main/Read01.md) | 
+| class 02  |      | | 
 | class 03  |      ||
 | class 04  |      ||
 | class 05  |      ||
