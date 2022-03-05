@@ -43,3 +43,19 @@ import java.awt.*;     //2) Imports (optional).
 
 public class Drawing {// 3) Class or interface definitions.
 ```
+### Import  
+The import keyword is used to import a package, class or interface.  
+The JOptionPane class is in the swing package, which is located in the javax package. The wildcard character (*) is used to specify that all classes with that package are available to your program. This is the most common programming style.
+```
+import java.util.Scanner;
+
+class MyClass {
+  public static void main(String[] args) {
+    Scanner myObj = new Scanner(System.in);
+    System.out.println("Enter username");
+
+    String userName = myObj.nextLine();
+    System.out.println("Username is: " + userName);
+  }
+}
+```
