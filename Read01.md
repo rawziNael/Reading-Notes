@@ -36,4 +36,4 @@ Operators in Java can be classified into 5 types:
 - Bitwise Operators
 
 The following table represents most known operations with their precedence order:
-[operator precedence](https://ucarecdn.com/4860994e-105d-456b-a98e-f3c51854830f/-/crop/478x539/214,123/-/preview/)
+![operator precedence(https://ucarecdn.com/4860994e-105d-456b-a98e-f3c51854830f/-/crop/478x539/214,123/-/preview/)
