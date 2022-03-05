@@ -48,8 +48,9 @@ is the line of code that either holds or calculates these values.
 Think of a statement as a command to Java - an order to perform a task. The expression above only defined the variable; when we convert that expression into a statement, we will actually do something with it.
 In the expression, we simply declared the variable for our user counter. The next line of code will take action on the variable. In the following example, we'll add a value (in this case another variable) to the user count:
 ![statement](/assets01/statement.jpg.png)
+
 An expression sets up the path while the statements perform actions on the variables.
 
 **Blocks:**
 Expressions and statements often need to be placed together. Let's say you have a module or function that carries out a task, such as updating a pay rate. Blocks are declared by using an open curly bracket ({) and a closing curly bracket (}).
-![block](/assets01/Static-Block-in-Java.png)
+
