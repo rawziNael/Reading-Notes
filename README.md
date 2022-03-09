@@ -15,6 +15,6 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 04  |OOP      |[OOP](https://github.com/rawziNael/Reading-Notes/blob/main/read04.md)|
 | class 05  |      LinkedList|[linked](https://github.com/rawziNael/Reading-Notes/blob/main/Read05.md)|
 | class 06  |Inheritance & interface      |[interface](https://github.com/rawziNael/Reading-Notes/blob/main/Read06.md)|
-| class 07  |      ||
+| class 08  |OO Design      |[OOP2] (https://github.com/rawziNael/Reading-Notes/blob/main/Read08.md)|
 
 
