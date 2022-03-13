@@ -39,13 +39,13 @@ To set the timeout values, we can use the setConnectTimeout() and setReadTimeout
 con.setConnectTimeout(5000);
 con.setReadTimeout(5000);  
 ```  
-6- Handling Cookies  
+5- Handling Cookies  
 The java.net package contains classes that ease working with cookies such as CookieManager and HttpCookie.  
 - First, to read the cookies from a response  
 - Next, we will add the cookies to the cookie store  
 - Finally, to add the cookies to the request  
 
-7-  Reading the Response  
+6-  Reading the Response  
 We can enable or disable automatically following redirects for a specific connection by using the setInstanceFollowRedirects() method with true or false parameter:
 ```
 con.setInstanceFollowRedirects(false);  
@@ -55,7 +55,24 @@ It is also possible to enable or disable automatic redirect for all connections:
 ```  
 HttpUrlConnection.setFollowRedirects(false);  
 ```  
+7-  Reading the Response  
+Reading the response of the request can be done by parsing the InputStream of the HttpUrlConnection instance.
+To execute the request, we can use the getResponseCode(), connect(), getInputStream() or getOutputStream() methods:  
 
+8- Reading the Response on Failed Requests  
+``` 
+int status = con.getResponseCode();
+
+Reader streamReader = null;
+
+if (status > 299) {
+    streamReader = new InputStreamReader(con.getErrorStream());
+} else {
+    streamReader = new InputStreamReader(con.getInputStream());
+}
+```  
+9- Building the Full Response  
+It's not possible to get the full response representation using the HttpUrlConnection instance.
 
 
 
