@@ -39,6 +39,22 @@ To set the timeout values, we can use the setConnectTimeout() and setReadTimeout
 con.setConnectTimeout(5000);
 con.setReadTimeout(5000);  
 ```  
+6- Handling Cookies  
+The java.net package contains classes that ease working with cookies such as CookieManager and HttpCookie.  
+- First, to read the cookies from a response  
+- Next, we will add the cookies to the cookie store  
+- Finally, to add the cookies to the request  
+
+7-  Reading the Response  
+We can enable or disable automatically following redirects for a specific connection by using the setInstanceFollowRedirects() method with true or false parameter:
+``
+con.setInstanceFollowRedirects(false);  
+```
+It is also possible to enable or disable automatic redirect for all connections:
+```
+HttpUrlConnection.setFollowRedirects(false);  
+```  
+
 
 
 
