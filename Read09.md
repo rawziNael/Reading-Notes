@@ -50,8 +50,9 @@ We can enable or disable automatically following redirects for a specific connec
 ``
 con.setInstanceFollowRedirects(false);  
 ```
-It is also possible to enable or disable automatic redirect for all connections:
-```
+It is also possible to enable or disable automatic redirect for all connections:  
+
+```  
 HttpUrlConnection.setFollowRedirects(false);  
 ```  
 
