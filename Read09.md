@@ -47,7 +47,7 @@ The java.net package contains classes that ease working with cookies such as Coo
 
 7-  Reading the Response  
 We can enable or disable automatically following redirects for a specific connection by using the setInstanceFollowRedirects() method with true or false parameter:
-``
+```
 con.setInstanceFollowRedirects(false);  
 ```
 It is also possible to enable or disable automatic redirect for all connections:  
