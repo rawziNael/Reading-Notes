@@ -17,5 +17,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 06  |Inheritance & interface      |[interface](https://github.com/rawziNael/Reading-Notes/blob/main/Read06.md)|
 | class 08   |OO Design       |[OOP2](https://github.com/rawziNael/Reading-Notes/blob/main/Read08.md)|
 | class 09   |WRRC and Java       |[http](https://github.com/rawziNael/Reading-Notes/blob/main/Read09.md)|
+| class 10   |Stacks & Queues      |[Stacks & Queues](https://github.com/rawziNael/Reading-Notes/blob/main/Read10.md)|
+
 
 
