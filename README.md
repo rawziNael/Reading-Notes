@@ -19,6 +19,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 09   |WRRC and Java       |[http](https://github.com/rawziNael/Reading-Notes/blob/main/Read09.md)|
 | class 10   |Stacks & Queues      |[Stacks & Queues](https://github.com/rawziNael/Reading-Notes/blob/main/Read10.md)|
 | class 11   |Spring      |[Spring](https://github.com/rawziNael/Reading-Notes/blob/main/Read11.md)|
+| class 11   |Spring RESTful Routing & Static Files     |[RESTful](https://github.com/rawziNael/Reading-Notes/blob/main/Read12.md)|
 
 
 
