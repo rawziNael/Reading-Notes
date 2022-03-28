@@ -20,6 +20,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 10   |Stacks & Queues      |[Stacks & Queues](https://github.com/rawziNael/Reading-Notes/blob/main/Read10.md)|
 | class 11   |Spring      |[Spring](https://github.com/rawziNael/Reading-Notes/blob/main/Read11.md)|
 | class 12  |Spring RESTful Routing & Static Files     |[RESTful](https://github.com/rawziNael/Reading-Notes/blob/main/Read12.md)|
+| class 13  | Related Resources and Integration Testing     |[Relations](https://github.com/rawziNael/Reading-Notes/blob/main/Read13.md)|
 
 
 
