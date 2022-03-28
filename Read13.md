@@ -15,7 +15,7 @@ public class Address {
 
     @OneToOne(mappedBy = "address")
     private Library library;  
-    ```  
+```    
     
 2- One-to-Many Relationship  
 
