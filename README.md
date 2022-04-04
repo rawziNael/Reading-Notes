@@ -23,6 +23,7 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 13  | Related Resources and Integration Testing     |[Relations](https://github.com/rawziNael/Reading-Notes/blob/main/Read13.md)|
 | class 16  | Spring Authentication    |[ Spring Authentication](https://github.com/rawziNael/Reading-Notes/blob/main/Read16.md)|  
 | class 16  | Spring Authentication    |[ Spring Authentication](https://github.com/rawziNael/Reading-Notes/blob/main/Read16.md)|
+| class 16  | Spring Authentication    |[ Spring Authentication](https://github.com/rawziNael/Reading-Notes/blob/main/Read16.md)|
 
 
 
