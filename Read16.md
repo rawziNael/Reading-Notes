@@ -27,7 +27,7 @@ There are three implementations provided by the framework:
 
   ![alt text](assets01/Read16.png)  
   
-  #### Method Security  
+#### Method Security  
 
 For Spring Security, this is just a different type of “protected resource”. For users, it means the access rules are declared using the same format of ConfigAttribute strings (for example, roles or expressions) but in a different place in your code.  
 The first step is to enable method security  
