@@ -23,4 +23,4 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | class 13  | Related Resources and Integration Testing     |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read13.md)|  
 | class 16  |Spring Authentication    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read16.md)|
 | class 18  |Web App Security    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read18.md)|  
-| class 19  |Spring and Sockets    |[link]()|  
+| class 19  |Spring and Sockets    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read19.md)|  
