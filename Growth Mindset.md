@@ -23,10 +23,9 @@ The power of believing that you can improve:
 
 Follow these steps to develop your a Growth Mindset:  
 
-1- Determine where you sit now
-2- Explore why you want to develop a growth mindset
-3- Find examples of others who have developed a growth mindset
-4- Change your perspective on failure
+1- Determine where you sit now  
+2- Explore why you want to develop a growth mindset  
+3- Find examples of others who have developed a growth mindset  
+4- Change your perspective on failure  
 5- Understand your own limitations
-6- Notice how you speak and act
-7- Learn about brain plasticity
+
