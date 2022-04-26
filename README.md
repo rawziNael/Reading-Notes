@@ -25,3 +25,4 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 18  |Web App Security    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read18.md)|  
 | Read 19  |Spring and Sockets    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read19.md)| 
 | Read 26  |Android Fundamentals |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read26.md)|  
+| Read 27  | Intents, Activities, and SharedPreferences |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read27.md)|  
