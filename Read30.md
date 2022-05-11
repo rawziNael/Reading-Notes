@@ -1,6 +1,6 @@
 # Read: 30 - Hash Tables 
 
-#Content  
+# Content  
 
 # Intro to Hash Tables  
 Hash A hash is the output of an algorithm that converts an input string into a value that may be used for security or any other purpose. It is used to find the index
