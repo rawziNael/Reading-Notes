@@ -27,3 +27,5 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 26  |Android Fundamentals |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read26.md)|  
 | Read 27  | Intents, Activities, and SharedPreferences |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read27.md)|  
 | Read 28  | RecyclerView |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read28.md)|  
+| Read 29  | Room |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read29.md)|  
+| Read 30 | Hash Tables |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read30.md)|  
