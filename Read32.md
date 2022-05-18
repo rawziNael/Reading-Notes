@@ -1,3 +1,4 @@
+# Read: 32 - Serverless and Amplify 
 
 #### What is Serverless?  
 Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs
