@@ -30,4 +30,5 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 29  | Room |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read29.md)|  
 | Read 30 | Hash Tables |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read30.md)| 
 | Read 31 | Espresso |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read31.md)|  
-| Read 32 | Serverless and Amplify |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read32.md)|  
+| Read 32 | Serverless and Amplify |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read32.md)|
+| Read 33 | GraphQL @connection |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read33.md)|  
