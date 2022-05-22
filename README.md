@@ -32,3 +32,4 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 31 | Espresso |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read31.md)|  
 | Read 32 | Serverless and Amplify |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read32.md)|
 | Read 33 | GraphQL @connection |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read33.md)|  
+| Read 34 | Monetization |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read34.md)|  
