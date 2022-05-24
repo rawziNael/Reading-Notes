@@ -17,6 +17,39 @@ To setup and configure your application with Amplify Auth you should do the foll
     `No, I am done.`  
 ```  
 
+3- To push your changes to the cloud, execute the command:  
+
+```  
+amplify push 
+```  
+
+4- To install Amplify Libraries: 
+Add the following dependency to your app's build.gradle  
+
+```  
+dependencies {
+    implementation 'com.amplifyframework:aws-auth-cognito:1.35.4'
+}  
+```  
+
+5- Initialize Amplify Auth : Add the Auth plugin before calling 'Amplify.configure'  
+
+```
+// Add this line, to include the Auth plugin.
+Amplify.addPlugin(new AWSCognitoAuthPlugin());
+Amplify.configure(getApplicationContext());
+```  
+
+6- To check the current auth session  
+
+``` 
+Amplify.Auth.fetchAuthSession(
+    result -> Log.i("AmplifyQuickstart", result.toString()),
+    error -> Log.e("AmplifyQuickstart", error.toString())
+);
+```  
+
+
     
 
 
