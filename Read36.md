@@ -49,7 +49,7 @@ Amplify.Auth.fetchAuthSession(
 );
 ```  
 
-# Sign in  
+#### Sign in  
 
 - The Auth category can be used to register a user, confirm attributes like email/phone, and sign in with optional multi-factor authentication.  
 
