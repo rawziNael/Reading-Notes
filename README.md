@@ -34,3 +34,4 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 33 | GraphQL @connection |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read33.md)|  
 | Read 34 | Monetization |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read34.md)|
 | Read 35 | Graphs |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read35.md)|  
+| Read 36 | Cognito |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read36.md)|  
