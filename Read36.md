@@ -49,6 +49,54 @@ Amplify.Auth.fetchAuthSession(
 );
 ```  
 
+# Sign in  
+
+- The Auth category can be used to register a user, confirm attributes like email/phone, and sign in with optional multi-factor authentication.  
+
+1- Invoke the following api to initiate a sign up flow  
+
+``` 
+AuthSignUpOptions options = AuthSignUpOptions.builder()
+    .userAttribute(AuthUserAttributeKey.email(), "my@email.com")
+    .build();
+Amplify.Auth.signUp("username", "Password123", options,
+    result -> Log.i("AuthQuickStart", "Result: " + result.toString()),
+    error -> Log.e("AuthQuickStart", "Sign up failed", error)
+);
+``` 
+
+2- confirm the user  
+
+``` 
+Amplify.Auth.confirmSignUp(
+    "username",
+    "the code you received via email",
+    result -> Log.i("AuthQuickstart", result.isSignUpComplete() ? "Confirm signUp succeeded" : "Confirm sign up not complete"),
+    error -> Log.e("AuthQuickstart", error.toString())
+);
+``` 
+
+3- Implement a UI to get the username and password from the user then call the following method:  
+
+```
+Amplify.Auth.signIn(
+    "username",
+    "password",
+    result -> Log.i("AuthQuickstart", result.isSignInComplete() ? "Sign in succeeded" : "Sign in not complete"),
+    error -> Log.e("AuthQuickstart", error.toString())
+);
+``` 
+
+
+
+
+
+
+
+
+
+
+
 
     
 
