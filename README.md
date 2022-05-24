@@ -7,15 +7,29 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 
 
 ### We will learn Java in Code 401 - Advanced Java
-| # of class    | Title | Links | 
-| :---        |          ---: | ---: |
-| Class 01    |Java Basics |	[javaBasics](https://github.com/rawziNael/Reading-Notes/blob/main/Read01.md) | 
-| class 02  |Arrays, Loops, Imports   | [loops&import](https://github.com/rawziNael/Reading-Notes/blob/main/Read02.md) | 
-| class 03  |Maps, primitives, File I/O      |[primitives](https://github.com/rawziNael/Reading-Notes/blob/main/Read03.md)|
-| class 04  |OOP      |[OOP](https://github.com/rawziNael/Reading-Notes/blob/main/read04.md)|
-| class 05  |      LinkedList|[linked](https://github.com/rawziNael/Reading-Notes/blob/main/Read05.md)|
-| class 06  |Inheritance & interface      |[interface](https://github.com/rawziNael/Reading-Notes/blob/main/Read06.md)|
-| class 08   |OO Design       |[OOP2](https://github.com/rawziNael/Reading-Notes/blob/main/Read08.md)|
-| class 09   |WRRC and Java       |[http](https://github.com/rawziNael/Reading-Notes/blob/main/Read09.md)|
-
-
+| # of class    | Title | Links |  
+| :---        |:---:| :---: |  
+| Read 01    |Java Basics |	[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read01.md) |  
+| Read 02  |Arrays, Loops, Imports   | [link](https://github.com/rawziNael/Reading-Notes/blob/main/Read02.md) |  
+| Read 03  |Maps, primitives, File I/O      |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read03.md)|  
+| Read 04  |OOP      |[link](https://github.com/rawziNael/Reading-Notes/blob/main/read04.md)|  
+| Read 05  |      LinkedList|[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read05.md)|  
+| Read 06  |Inheritance & interface      |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read06.md)|  
+| Read 08   |OO Design       |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read08.md)|  
+| Read 09   |WRRC and Java       |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read09.md)|  
+| Read 10   |Stacks & Queues      |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read10.md)|  
+| Read 11   |Spring      |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read11.md)|  
+| Read 12  |Spring RESTful Routing & Static Files     |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read12.md)|  
+| Read 13  | Related Resources and Integration Testing     |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read13.md)|  
+| Read 16  |Spring Authentication    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read16.md)|
+| Read 18  |Web App Security    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read18.md)|  
+| Read 19  |Spring and Sockets    |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read19.md)| 
+| Read 26  |Android Fundamentals |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read26.md)|  
+| Read 27  | Intents, Activities, and SharedPreferences |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read27.md)|  
+| Read 28  | RecyclerView |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read28.md)|  
+| Read 29  | Room |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read29.md)|  
+| Read 30 | Hash Tables |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read30.md)| 
+| Read 31 | Espresso |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read31.md)|  
+| Read 32 | Serverless and Amplify |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read32.md)|
+| Read 33 | GraphQL @connection |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read33.md)|  
+| Read 34 | Monetization |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read34.md)|  

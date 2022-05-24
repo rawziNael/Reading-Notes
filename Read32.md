@@ -1,3 +1,4 @@
+# Read: 32 - Serverless and Amplify 
 
 #### What is Serverless?  
 Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs
@@ -63,13 +64,13 @@ A Serverless solution consists of a web server, Lambda functions (FaaS), securit
 
 #### Benefits of Serverless Architecture  
 
-- From business perspective
+- From business perspective  
 1- The cost incurred by a serverless application
 2- Process agility
 3- Cost of hiring backend infrastructure engineers goes down.
 4- Reduced operational costs  
 
-- From developer perspective
+- From developer perspective  
 1- Reduced liability, no backend infrastructure to be responsible for.
 2- Zero system administration.
 3- Easier operational management.
@@ -79,25 +80,25 @@ A Serverless solution consists of a web server, Lambda functions (FaaS), securit
 7- Monitoring out of the box.
 8- Fosters innovation.  
 
-- From user perspective
+- From user perspective  
 1- If businesses are using that competitive edge to ship features faster, then customers are receiving new features quicker than before.
 2- It is possible that users can more easily provide their own storage backend(i.e Dropbox, Google Drive).
 3- It’s more likely that these kinds of apps may offer client-side caching, which provides a better offline experience.  
 
 #### Drawbacks of Serverless Architecture  
 
-- From business perspective
+- From business perspective  
 1- Reduced overall control.
 2- Vendor lock-in requires more trust for a third-party provider.
 3- Additional exposure to risk requires more trust for a third party provider.
 4- Security risk.  
 
-- From developer perspective
+- From developer perspective  
 1- Immature technology results in component fragmentation, unclear best-practices.
 2- Architectural complexity.
 3- The discipline required against function sprawl.  
 
-- From user perspective
+- From user perspective  
 Unless architected correctly, an app could provide a poor user experience as a result of increased request latency.  
 
 #### Serverless Frameworks  

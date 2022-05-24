@@ -1,4 +1,5 @@
 # Graphs
+
 A graph is a non-linear data structure that can be looked at as a collection of vertices (or nodes) potentially connected by line segments named edges.  
 
 #### some common terminology used when working with Graphs:  
@@ -90,4 +91,3 @@ Graphs are extremely popular when it comes to it’s uses. Here are just a few e
 - Social Networks  
 - Airline Traffic  
 - Netflix uses graphs for suggestions of products  
-
