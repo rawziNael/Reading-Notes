@@ -36,3 +36,4 @@ Hello everybody my name is Rawzi Al-Homran this is my reading-notes repo. This i
 | Read 35 | Graphs |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read35.md)|  
 | Read 36 | Cognito |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read36.md)|
 | Read 37 | S3 |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read37.md)|  
+| Read 38 | Notifications |[link](https://github.com/rawziNael/Reading-Notes/blob/main/Read38.md)|  
