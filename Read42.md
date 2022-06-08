@@ -10,13 +10,7 @@ A mobile advertising platform that you can use to generate revenue from your app
 
 #### How does it work?  
 
-AdMob helps you monetize your mobile app through in-app advertising. Ads can be displayed in a number of formats and are seamlessly added to platform native UI components.  
-
-Before you can display ads within your app, you'll need to create an AdMob account and activate one or more ad unit IDs. This is a unique identifier for the places in
-your app where ads are displayed.  
-
-AdMob uses the Google Mobile Ads SDK which helps app developers gain insights about their users and maximize ad revenue. To do so, the default integration of the Mobile
-Ads SDK collects information such as device information.  
+You will need to create an AdMob account and activate one or more ad unit IDs. then you can get started.   
 
 # Monetize with ease  
 
@@ -24,5 +18,12 @@ Create a revenue stream by launching a paid app or offering digital content or s
 
 1- Take control of your monetization strategy  
 2- Reach more paying customers  
-3- Convert users into buyers
+- Earn more while enhancing your user experience by finding the right combination of ad formats  
+- Maximize your revenue by considering a flexible monetization strategy that adapts to your audiences and markets.  
+- Increase engagement and retention with subscriptions by offering free trials, introductory pricing, promo codes, and more  
+- Use subscription insights to measure how much you earn from each subscription tier, track retention, and see which features attract the most interest  
+3- Convert users into buyers  
+- Sell digital content in your app  
+- Understand how your users behave and get detailed insights into app  
+- Incorporate live-ops time-limited sales and events as a long-term strategy that introduces new content into the game economy.  
 
