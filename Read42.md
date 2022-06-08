@@ -22,7 +22,7 @@ Ads SDK collects information such as device information.
 
 Create a revenue stream by launching a paid app or offering digital content or subscriptions. 
 
-1- Take control of your monetization strategy
-2- Reach more paying customers
+1- Take control of your monetization strategy  
+2- Reach more paying customers  
 3- Convert users into buyers
 
