@@ -21,8 +21,11 @@ Create a revenue stream by launching a paid app or offering digital content or s
 - Earn more while enhancing your user experience by finding the right combination of ad formats  
 - Maximize your revenue by considering a flexible monetization strategy that adapts to your audiences and markets.  
 - Increase engagement and retention with subscriptions by offering free trials, introductory pricing, promo codes, and more  
-- Use subscription insights to measure how much you earn from each subscription tier, track retention, and see which features attract the most interest  
+- Use subscription insights to measure how much you earn from each subscription tier, track retention, and see which features attract the most interest 
+
+
 3- Convert users into buyers  
+
 - Sell digital content in your app  
 - Understand how your users behave and get detailed insights into app  
 - Incorporate live-ops time-limited sales and events as a long-term strategy that introduces new content into the game economy.  
