@@ -1,6 +1,6 @@
 # Read-43 : OSS Contributions  
 
-#### FIRST TIMERS ONLY  
+# FIRST TIMERS ONLY  
 
 If you have never contributed to an open source project before and you’re just getting started, consider exploring these resources.  
 - [First contributions](https://github.com/firstcontributions/first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.  
@@ -10,7 +10,20 @@ If you have never contributed to an open source project before and you’re just
 - [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.  
 
 
-#### What Motivates a Developer to Contribute to Open-Source Software?  
+# GitHub  
+
+Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.  
+
+With GitHub You will learn how to make a contribution on GitHub which goes as follows:  
+
+    1. Fork the repository.
+    2. Clone the repository.
+    3. Create a new branch.
+    4. Make necessary changes and commit those changes.
+    5. Push changes to GitHub.
+    6. Submit your changes for review.
+
+# What Motivates a Developer to Contribute to Open-Source Software?  
 
 Open-source software (OSS) is a rapidly growing industry that provides many benefits to the individuals and businesses who use it, as well as to its programmers.  
  
@@ -23,4 +36,6 @@ Here is a list of some of the most common reasons why developers contribute to o
 3- Increase Community and Peer Recognition  
 4- Greater Job Prospects  
 5- Improve Software on a User and Business Level  
+
+
 
