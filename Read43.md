@@ -16,12 +16,12 @@ Open source software is free for you to use and explore. Get involved to perfect
 
 With GitHub You will learn how to make a contribution on GitHub which goes as follows:  
 
-    1. Fork the repository.
-    2. Clone the repository.
-    3. Create a new branch.
-    4. Make necessary changes and commit those changes.
-    5. Push changes to GitHub.
-    6. Submit your changes for review.
+1- Fork the repository.
+2- Clone the repository.
+3- Create a new branch.
+4- Make necessary changes and commit those changes.
+5- Push changes to GitHub.
+6- Submit your changes for review.
 
 # What Motivates a Developer to Contribute to Open-Source Software?  
 
