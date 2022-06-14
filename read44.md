@@ -49,11 +49,25 @@ PRINCIPLES:
 - SELF: Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of 
         the profession  
         
-        
+# Ethics in the workplace  
 
+Ethics in the workplace as a programmer, each time you want to start writing a code you should think many times in the way that your code will use, as today's the websites and programs are used to advertising and view some works or products, some of the owners of works don't matter what is the effects of there products on the customers they just focus on there benifits not matter what is the side effects of this products, some of them use the advertisings to advertise about some medicines that are not legal or have a bad effects on people or maybe they focus on some products people in range of age that afects on there mind or depression or some times to self-murder, the responsipility and the programmer to be sure of the way that his/her code will used to and the perposes of using this code and be sure the code will used in things that will benifite the community and the people.  
 
+# Ethics in Technology - The cybersecurity risk of self-driving cars    
 
+The questions this article is raising are:  
 
+"Could cybercriminals remotely hijack an autonomous car's electronics with the intent to cause a crash? Could terrorists commandeer the vehicles as weapons? Could data stored onboard be unlocked?  
 
+Experts say that self-driving cars will be particularly susceptible to hackers. What makes them so vulnerable. If the car works with any outside services like internet or outside sensors then yes, it might be susceptible to hackers.
 
+Would you feel safe in a self-driving car?  
+The answer is simply NO , We do not really have self-driving cars yet. Rather, we have semi-automated self-driving cars.  
+
+# Tech Company Principles  
+
+- Put responsible AI into action  
+- Responsible AI resources and tools  
+- Research and collaboration for responsible AI  
+- Establish a responsible AI strategy  
 
