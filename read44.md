@@ -64,7 +64,7 @@ Experts say that self-driving cars will be particularly susceptible to hackers. 
 Would you feel safe in a self-driving car?  
 The answer is simply NO , We do not really have self-driving cars yet. Rather, we have semi-automated self-driving cars.  
 
-# Tech Company Principles  
+# Tech Company Principles - Microsoft  
 
 - Put responsible AI into action  
 - Responsible AI resources and tools  
